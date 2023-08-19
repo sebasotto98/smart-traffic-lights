@@ -1,0 +1,42 @@
+.button {
+  background-color: #7e194b;
+  color: #ffff;
+  padding: 1rem;
+  border: none;
+  cursor: pointer;
+  width: 4.5rem;
+  text-align: center;
+  border-radius: 7%;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #7e3e5e;
+  width: 4.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  text-align: end;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content p:hover {
+  background-color: #80385c;
+  cursor: pointer;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .button {
+  background-color: #74093e;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}

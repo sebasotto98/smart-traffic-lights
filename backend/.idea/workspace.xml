@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9f4ac7e-265b-40bf-b6e8-d7f71107e850" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2218de33-4328-45da-aad1-09dbcb86e96b-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/28fa3f18-8801-4eff-98ce-0abb7538258e-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/44ca4d0f-10b9-4d01-aa66-df16af53a6ca-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4502dbf8-1e84-4b5d-9a2b-c62ae224013b-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/46620356-8976-428b-b0d3-e5d27dc08578-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4e0be4f4-48e0-4b58-a04b-a5f73f8cdc17-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/50c743fb-30aa-4715-b180-6bef0cb21d49-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5991f1c5-cfc6-456f-a581-60b456c9651f-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5ee906ea-d566-4f84-bc43-350f9f957a17-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6f50c135-9124-4d20-b16e-a4a4ed46f218-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/753d6950-ef90-440c-adc9-6dea0456c277-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/86faca97-c97b-4f83-ac08-452328b9400f-tcpioteclipseorg1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8fc03149-b9e9-4217-af66-3fc7ad9e3053-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/95b7bb92-8549-4c36-8337-b3e011b30479-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/96498392-5d3d-40d8-bb26-9a3871821097-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a5584d5a-74c4-413c-bb03-688e86a65195-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b26ac947-1fc8-4dad-bde7-ba9f99dd852b-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b8f9b014-42ec-4bfe-9c57-b6a4a2b2a457-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bdf85f9d-6d5b-4479-9df5-0de4d1acdf9c-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/da3a1499-7042-4086-a61c-8a8c85ca09d8-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/da409477-7e81-4a12-9527-ecb15188c689-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e26837ed-486f-4d05-8e3e-60ede4043e15-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eb290305-f12e-484e-b557-04ea69575e01-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/f17d7d60-40c6-4aea-991d-890eae97a657-tcplocalhost1883/.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/controllers/DeviceManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/tecnico/controllers/DeviceManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/controllers/DeviceMetricsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/tecnico/controllers/DeviceMetricsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/entities/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/entities/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/entities/Road.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/entities/TrafficLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/tecnico/entities/TrafficLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/entities/TrafficLightState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/tecnico/entities/TrafficLightState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/repositories/DeviceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/repositories/TrafficLightRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/tecnico/repositories/TrafficLightRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/services/DeviceManagementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/tecnico/services/DeviceManagementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/services/DeviceMetricsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/tecnico/services/DeviceMetricsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/tecnico/services/MQTTService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/tecnico/services/MQTTService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/New Text Document.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/backend-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/controllers/DeviceManagementController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pt/tecnico/controllers/DeviceManagementController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/controllers/DeviceMetricsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pt/tecnico/controllers/DeviceMetricsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/entities/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/entities/Device.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/entities/Road.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/entities/TrafficLight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pt/tecnico/entities/TrafficLight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/repositories/DeviceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/repositories/TrafficLightRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pt/tecnico/repositories/TrafficLightRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/services/DeviceManagementService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pt/tecnico/services/DeviceManagementService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/services/DeviceManagementService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pt/tecnico/services/DeviceManagementService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/services/DeviceMetricsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pt/tecnico/services/DeviceMetricsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pt/tecnico/services/MQTTService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pt/tecnico/services/MQTTService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jar.rar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26jcF9vTnjbNB3CdWFHRX6A06zm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../pava/Pava_project" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sebas\Downloads\ami\SmartTrafficLights\backend\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.tecnico.Application" />
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.tecnico.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9f4ac7e-265b-40bf-b6e8-d7f71107e850" name="Changes" comment="" />
+      <created>1647940336458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647940336458</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
